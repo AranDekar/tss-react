@@ -1,0 +1,1 @@
+{"__schema":{"types":[{"kind":"INTERFACE","name":"Report","possibleTypes":[{"name":"YearlyReport"},{"name":"MonthlyReport"}]}]}}
